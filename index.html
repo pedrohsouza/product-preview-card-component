@@ -22,6 +22,8 @@
       rel="stylesheet"
     />
 
+    <link rel="stylesheet" href="style.css" />
+
     <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
     <!-- <style>
       .attribution {
@@ -36,7 +38,16 @@
   <body>
     <main>
       <div class="container">
-        <img src="" alt="" />
+        <picture>
+          <source
+            media="(min-width:767px)"
+            srcset="./images/image-product-desktop.jpg"
+          />
+          <img
+            src="./images/image-product-mobile.jpg"
+            alt="a picture of the perfume Gabrielle Chanel"
+          />
+        </picture>
 
         <div class="product-info">
           <h2 class="product-type">PERFUME</h2>
