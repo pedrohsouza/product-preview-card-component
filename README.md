@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-That was my first time using the <picture> tag and for some reason it was adding a tiny space bellow the <img>. That thread helped me to solve it: [Mystery white space underneath image tag](https://stackoverflow.com/questions/31444891/mystery-white-space-underneath-image-tag)
+That was my first time using the ```<picture>``` tag and for some reason it was adding a tiny space bellow the ```<img>```. That thread helped me to solve it: [Mystery white space underneath image tag](https://stackoverflow.com/questions/31444891/mystery-white-space-underneath-image-tag)
 
 ### Useful resources
 
