@@ -18,7 +18,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshots
 
-![](./screenshots/desktop-screenshot.png)
+![](./screenshots/screenshots-all-sizes.png)
 
 ### The challenge
 
